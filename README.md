@@ -4,7 +4,10 @@ For example:
 -1.0713518066664 -0.24087 0.00000 0.00000 -0.88103
 
 (-)  ->  (-)  ->  (0)  ->  (0) == s.o.c
-\       <- A small representation of what the cycle would look like.
+
+\
  \ _ _
  
- You get the picture, I am new at this and have been guiding myself with the internet and sentdex his website: https://pythonprogramming.net/ amazing programmer and teacher btw. But that can only go so far, I am here asking for anyones help or guidance. 
+ A small representation of what the cycle would look like.
+ 
+You get the picture, I am new at this and have been guiding myself with the internet and sentdex his website: https://pythonprogramming.net/ amazing programmer and teacher btw. But that can only go so far, I am here asking for anyones help or guidance. 
