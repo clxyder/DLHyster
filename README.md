@@ -9,5 +9,3 @@ For example:
  \ _ _
  
  A small representation of what the cycle would look like.
- 
-You get the picture, I am new at this and have been guiding myself with the internet and sentdex his website: https://pythonprogramming.net/ amazing programmer and teacher btw. But that can only go so far, I am here asking for anyones help or guidance. 
